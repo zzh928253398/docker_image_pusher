@@ -10,4 +10,4 @@ docker.elastic.co/elasticsearch/elasticsearch:8.12.2
 docker.elastic.co/kibana/kibana:8.12.2
 apachepulsar/pulsar:3.2.3
 milvusdb/milvus:2.3-latest
-paddlecloud/paddlespeech
+paddlecloud/paddlespeech:develop-gpu-cuda10.2-cudnn7-latest
