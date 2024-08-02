@@ -13,4 +13,5 @@
 #paddlecloud/paddlespeech:develop-gpu-cuda10.2-cudnn7-latest
 #paddlecloud/paddlenlp:develop-gpu-cuda11.2-cudnn8-latest
 
-paddlepaddle/paddle:2.5.1-gpu-cuda10.2-cudnn7.6-trt7.0
+#paddlepaddle/paddle:2.5.1-gpu-cuda10.2-cudnn7.6-trt7.0
+doccano/doccano:1.8
