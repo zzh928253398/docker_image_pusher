@@ -18,4 +18,5 @@
 #paddlepaddle/paddle:2.5.1-gpu-cuda12.0-cudnn8.9-trt8.6
 #paddlepaddle/paddle:2.5.1-gpu-cuda11.2-cudnn8.2-trt8.0
 #paddlepaddle/paddle:2.5.1-gpu-cuda11.7-cudnn8.4-trt8.4
-lukeliutensorcorp/flux:v1.1
+#lukeliutensorcorp/flux:v1.1
+diyer22/hik_camera:latest
