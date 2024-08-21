@@ -19,4 +19,5 @@
 #paddlepaddle/paddle:2.5.1-gpu-cuda11.2-cudnn8.2-trt8.0
 #paddlepaddle/paddle:2.5.1-gpu-cuda11.7-cudnn8.4-trt8.4
 #lukeliutensorcorp/flux:v1.1
-diyer22/hik_camera:latest
+#diyer22/hik_camera:latest
+pytorch/pytorch:2.0.1-cuda11.7-cudnn8-devel
