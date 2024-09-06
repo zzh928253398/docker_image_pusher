@@ -22,5 +22,8 @@
 #diyer22/hik_camera:latest
 #pytorch/pytorch:2.0.1-cuda11.7-cudnn8-devel
 #apachepulsar/pulsar:2.8.2
-heartexlabs/label-studio:latest
-pgautoupgrade/pgautoupgrade:13-alpine
+#heartexlabs/label-studio:latest
+#pgautoupgrade/pgautoupgrade:13-alpine
+smark/snmpd:latest
+rabbitmq:3.13.7
+erlang:26.2.5
