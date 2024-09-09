@@ -27,4 +27,5 @@
 #smark/snmpd:latest
 #rabbitmq:3.13.7
 #erlang:26.2.5
-paddlepaddle/fastdeploy:cuda11.6-23.12
+#paddlepaddle/fastdeploy:cuda11.6-23.12
+paddlepaddle/fastdeploy:1.0.7-gpu-cuda11.6-23.04
