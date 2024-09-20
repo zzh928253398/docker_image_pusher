@@ -30,4 +30,5 @@
 #paddlepaddle/fastdeploy:cuda11.6-23.12
 #paddlepaddle/fastdeploy:1.0.7-gpu-cuda11.6-23.04
 #redis:3.2
-bitnami/pymilvus:2.3.7
+#bitnami/pymilvus:2.3.7
+python:3.8.20-slim
