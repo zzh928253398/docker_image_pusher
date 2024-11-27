@@ -39,4 +39,5 @@
 #registry.cn-hangzhou.aliyuncs.com/jeecgdocker/redis:5.0
 #registry.cn-hangzhou.aliyuncs.com/jeecgdocker/alpine-java:8_server-jre_unlimited
 #registry.cn-hangzhou.aliyuncs.com/dockerhub_mirror/nginx
-savatar101/omniparse:0.1
+#savatar101/omniparse:0.1
+apache/dolphinscheduler-standalone-server:latest
