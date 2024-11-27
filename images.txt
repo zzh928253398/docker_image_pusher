@@ -40,4 +40,12 @@
 #registry.cn-hangzhou.aliyuncs.com/jeecgdocker/alpine-java:8_server-jre_unlimited
 #registry.cn-hangzhou.aliyuncs.com/dockerhub_mirror/nginx
 #savatar101/omniparse:0.1
-apache/dolphinscheduler-standalone-server:latest
+#apache/dolphinscheduler-standalone-server:latest
+bitnami/postgresql:15.2.0
+bitnami/zookeeper:3.7.1
+ghcr.io/apache/dolphinscheduler/dolphinscheduler-tools:3.1.9
+ghcr.io/apache/dolphinscheduler/dolphinscheduler-api:3.1.9
+ghcr.io/apache/dolphinscheduler/dolphinscheduler-alert-server:3.1.9
+ghcr.io/apache/dolphinscheduler/dolphinscheduler-master:3.1.9
+ghcr.io/apache/dolphinscheduler/dolphinscheduler-worker:3.1.9
+
