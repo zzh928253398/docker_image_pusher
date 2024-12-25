@@ -50,4 +50,5 @@
 #ghcr.io/apache/dolphinscheduler/dolphinscheduler-worker:3.1.9
 #--platform linux/arm64 docker.elastic.co/elasticsearch/elasticsearch:8.12.2
 #--platform linux/arm64 docker.elastic.co/kibana/kibana:8.12.2
---platform linux/arm64/v8 nginx
+#--platform linux/arm64/v8 nginx
+--platform linux/arm64 mysql:8.3.0
