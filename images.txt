@@ -49,5 +49,6 @@
 #ghcr.io/apache/dolphinscheduler/dolphinscheduler-master:3.1.9
 #ghcr.io/apache/dolphinscheduler/dolphinscheduler-worker:3.1.9
 #docker.elastic.co/elasticsearch/elasticsearch:8.12.2 --platform linux/arm64
-docker.elastic.co/elasticsearch/elasticsearch:8.12.2@sha256:1d183abc10a89d49a9a7c8c9aeebc32bbd9de91782b4b3d39a1318469f5ad8c3
+--platform linux/arm64 docker.elastic.co/elasticsearch/elasticsearch:8.12.2
+#docker.elastic.co/elasticsearch/elasticsearch:8.12.2@sha256:1d183abc10a89d49a9a7c8c9aeebc32bbd9de91782b4b3d39a1318469f5ad8c3
 #docker.elastic.co/kibana/kibana:8.12.2 --platform linux/arm64
