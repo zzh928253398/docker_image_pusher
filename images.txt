@@ -61,5 +61,6 @@
 #--platform linux/arm64/v8 milvusdb/milvus:2.3.0-latest
 # poboinfo/milvus:latest-arm64
 # --platform linux/arm64 bitnami/mysql:5.7.43
---platform linux/arm64 docker.elastic.co/elasticsearch/elasticsearch:7.17.16
---platform linux/arm64/v8 elastic/filebeat:7.17.16
+#--platform linux/arm64 docker.elastic.co/elasticsearch/elasticsearch:7.17.16
+#--platform linux/arm64/v8 elastic/filebeat:7.17.16
+--platform linux/arm64 zhangrunjiang/paddle:cifar10-multi
