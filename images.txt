@@ -63,4 +63,5 @@
 # --platform linux/arm64 bitnami/mysql:5.7.43
 #--platform linux/arm64 docker.elastic.co/elasticsearch/elasticsearch:7.17.16
 #--platform linux/arm64/v8 elastic/filebeat:7.17.16
---platform linux/arm64 zhangrunjiang/paddle:cifar10-multi
+#--platform linux/arm64 zhangrunjiang/paddle:cifar10-multi
+bitnami/kafka:2.7.0
