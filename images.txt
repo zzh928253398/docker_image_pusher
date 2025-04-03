@@ -66,4 +66,5 @@
 #--platform linux/arm64 zhangrunjiang/paddle:cifar10-multi
 # bitnami/kafka:2.7.0
 # volador/rapidocr
-debian:bullseye-slim
+# debian:bullseye-slim
+python:3.8-slim-bullseye
