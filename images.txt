@@ -67,4 +67,5 @@
 # bitnami/kafka:2.7.0
 # volador/rapidocr
 # debian:bullseye-slim
-python:3.8-slim-bullseye
+# python:3.8-slim-bullseye
+uptospace/unsloth:latest
