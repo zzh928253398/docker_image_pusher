@@ -69,4 +69,5 @@
 # debian:bullseye-slim
 # python:3.8-slim-bullseye
 # uptospace/unsloth:latest
-python:3.10-slim-bullseye
+# python:3.10-slim-bullseye
+python:3.11-slim-bullseye
