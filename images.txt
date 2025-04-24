@@ -70,4 +70,6 @@
 # python:3.8-slim-bullseye
 # uptospace/unsloth:latest
 # python:3.10-slim-bullseye
-python:3.11-slim-bullseye
+# python:3.11-slim-bullseye
+--platform linux/arm64/v8 mysql:9.2.0
+--platform linux/arm64 minio/minio:RELEASE.2024-01-31T20-20-33Z
