@@ -78,4 +78,5 @@
 # multiarch/qemu-user-static:x86_64-xtensaeb
 # multiarch/qemu-user-static:x86_64-aarch64
 # multiarch/qemu-user-static
-moby/buildkit:buildx-stable-1
+# moby/buildkit:buildx-stable-1
+--platform linux/arm64/v8 python:3.11-slim-bullseye
