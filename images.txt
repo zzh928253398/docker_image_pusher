@@ -73,5 +73,6 @@
 # python:3.11-slim-bullseye
 # --platform linux/arm64/v8 mysql:9.2.0
 # --platform linux/arm64 minio/minio:RELEASE.2024-01-31T20-20-33Z
---platform linux/arm64/v8 nginx:1.27.3
---platform linux/arm64/v8 redis:7.4.2
+# --platform linux/arm64/v8 nginx:1.27.3
+# --platform linux/arm64/v8 redis:7.4.2
+multiarch/qemu-user-static:x86_64-xtensaeb
