@@ -79,4 +79,5 @@
 # multiarch/qemu-user-static:x86_64-aarch64
 # multiarch/qemu-user-static
 # moby/buildkit:buildx-stable-1
---platform linux/arm64/v8 python:3.11-slim-bullseye
+# --platform linux/arm64/v8 python:3.11-slim-bullseye
+cupy/cupy:v12.3.0
