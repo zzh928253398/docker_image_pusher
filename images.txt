@@ -80,4 +80,5 @@
 # multiarch/qemu-user-static
 # moby/buildkit:buildx-stable-1
 # --platform linux/arm64/v8 python:3.11-slim-bullseye
-cupy/cupy:v12.3.0
+# cupy/cupy:v12.3.0
+mysql:8.4.5
