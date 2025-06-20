@@ -82,5 +82,5 @@
 # --platform linux/arm64/v8 python:3.11-slim-bullseye
 # cupy/cupy:v12.3.0
 # mysql:8.4.5
-golang:1.20-bullseye
-
+# golang:1.20-bullseye
+debian:bullseye-slim
