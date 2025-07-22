@@ -93,4 +93,5 @@
 # openeuler/redis:latest
 # python:3.10-slim-bookworm
 # mongo:4.4
-redis:latest
+# redis:latest
+rediscommander/redis-commander:latest
