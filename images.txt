@@ -91,4 +91,6 @@
 # tonistiigi/binfmt:latest
 # moby/buildkit:buildx-stable-1
 # openeuler/redis:latest
-python:3.10-slim-bookworm
+# python:3.10-slim-bookworm
+mongo:4.4
+
