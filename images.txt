@@ -94,4 +94,5 @@
 # python:3.10-slim-bookworm
 # mongo:4.4
 # redis:latest
-rediscommander/redis-commander:latest
+# rediscommander/redis-commander:latest
+mongo-express:latest
