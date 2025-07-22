@@ -90,4 +90,5 @@
 # docker/binfmt:a7996909642ee92942dcd6cff44b9b95f08dad64
 # tonistiigi/binfmt:latest
 # moby/buildkit:buildx-stable-1
-openeuler/redis:latest
+# openeuler/redis:latest
+python:3.10-slim-bookworm
