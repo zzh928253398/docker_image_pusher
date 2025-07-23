@@ -95,4 +95,5 @@
 # mongo:4.4
 # redis:latest
 # rediscommander/redis-commander:latest
-mongo-express:latest
+# mongo-express:latest
+--platform linux/arm64/v8 onlyonelmm/jdk8:latest
