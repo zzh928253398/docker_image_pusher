@@ -97,4 +97,5 @@
 # rediscommander/redis-commander:latest
 # mongo-express:latest
 # --platform linux/arm64/v8 onlyonelmm/jdk8:latest
-ghcr.io/conardli/easy-dataset
+# ghcr.io/conardli/easy-dataset
+hiyouga/llamafactory:latest
