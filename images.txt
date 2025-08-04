@@ -98,4 +98,5 @@
 # mongo-express:latest
 # --platform linux/arm64/v8 onlyonelmm/jdk8:latest
 # ghcr.io/conardli/easy-dataset
-hiyouga/llamafactory:latest
+# hiyouga/llamafactory:latest
+docker.io/library/redis:8
