@@ -100,4 +100,5 @@
 # ghcr.io/conardli/easy-dataset
 # hiyouga/llamafactory:latest
 # docker.io/library/redis:8
-docker.io/library/mariadb:11
+# docker.io/library/mariadb:11
+ghcr.io/paperless-ngx/paperless-ngx:latest
