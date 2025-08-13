@@ -104,4 +104,5 @@
 # ghcr.io/paperless-ngx/paperless-ngx:latest
 # docker.io/gotenberg/gotenberg:8.20
 # docker.io/apache/tika:latest
-ghcr.io/nautechsystems/jupyterlab:latest
+# ghcr.io/nautechsystems/jupyterlab:latest
+chaitin-registry.cn-hangzhou.cr.aliyuncs.com/basic/pgvector:pg17
