@@ -105,4 +105,4 @@
 # docker.io/gotenberg/gotenberg:8.20
 # docker.io/apache/tika:latest
 # ghcr.io/nautechsystems/jupyterlab:latest
-chaitin-registry.cn-hangzhou.cr.aliyuncs.com/basic/pgvector:pg17
+ccr-2vdh3abv-pub.cnc.bj.baidubce.com/device/paddle-npu:cann80RC2-ubuntu20-npu-base-aarch64-gcc84
