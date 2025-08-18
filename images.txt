@@ -106,5 +106,5 @@
 # docker.io/apache/tika:latest
 # ghcr.io/nautechsystems/jupyterlab:latest
 # ccr-2vdh3abv-pub.cnc.bj.baidubce.com/device/paddle-npu:cann80RC2-ubuntu20-npu-base-aarch64-gcc84
-# registry.baidubce.com/device/paddle-cpu:kylinv10-aarch64-gcc73
-registry.baidubce.com/paddle-cpu:kylinv10-aarch64-gcc82
+paddlepaddle/paddle-cpu:kylinv10-aarch64-gcc73
+# registry.baidubce.com/paddle-cpu:kylinv10-aarch64-gcc82
