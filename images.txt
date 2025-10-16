@@ -112,4 +112,5 @@
 # --platform linux/arm64/v8 python:3.8-slim-bullseye
 # --platform linux/arm64/v8 python:3.9-slim-bullseye
 # pubuzhixing/drawnix:latest
-python:3.9-slim-bullseye
+# python:3.9-slim-bullseye
+nvidia/dcgm-exporter:3.3.6-3.4.2-ubuntu22.04
