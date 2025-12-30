@@ -119,4 +119,5 @@
 # envoyproxy/envoy:v1.31.0
 # --platform linux/arm64/v8 python:3.12
 # --platform linux/arm64/v8 python:3.11-slim-bullseye
-ccr-2vdh3abv-pub.cnc.bj.baidubce.com/paddlepaddle/paddle:3.2.2-gpu-cuda12.6-cudnn9.5
+# ccr-2vdh3abv-pub.cnc.bj.baidubce.com/paddlepaddle/paddle:3.2.2-gpu-cuda12.6-cudnn9.5
+ghcr.io/mermaid-js/mermaid-live-editor
