@@ -122,4 +122,5 @@
 # ccr-2vdh3abv-pub.cnc.bj.baidubce.com/paddlepaddle/paddle:3.2.2-gpu-cuda12.6-cudnn9.5
 # ghcr.io/mermaid-js/mermaid-live-editor
 # ghcr.io/dayuanjiang/next-ai-draw-io:latest
-unsloth/unsloth
+#unsloth/unsloth
+hiyouga/llamafactory:latest
