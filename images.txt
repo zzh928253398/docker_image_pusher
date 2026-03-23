@@ -124,4 +124,5 @@
 # ghcr.io/dayuanjiang/next-ai-draw-io:latest
 #unsloth/unsloth
 # hiyouga/llamafactory:latest
---platform linux/arm64/v8 python:3.10-slim-bullseye
+#--platform linux/arm64/v8 python:3.10-slim-bullseye
+vllm/vllm-openai:latest
