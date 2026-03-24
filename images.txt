@@ -125,4 +125,5 @@
 #unsloth/unsloth
 # hiyouga/llamafactory:latest
 #--platform linux/arm64/v8 python:3.10-slim-bullseye
-vllm/vllm-openai:latest
+# vllm/vllm-openai:latest
+vllm/vllm-openai:qwen3_5
