@@ -129,4 +129,5 @@
 #vllm/vllm-openai:qwen3_5
 #zingg/zingg:0.5.0
 #--platform linux/arm64 diygod/rsshub:latest
---platform linux/arm64 browserless/chrome:latest
+#--platform linux/arm64 browserless/chrome:latest
+--platform linux/arm64/v8 redis:alpine
