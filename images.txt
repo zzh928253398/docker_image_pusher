@@ -131,4 +131,5 @@
 #--platform linux/arm64 diygod/rsshub:latest
 #--platform linux/arm64 browserless/chrome:latest
 # --platform linux/arm64/v8 redis:alpine
---platform linux/arm64/v8 python:3.13-slim-bookworm
+#--platform linux/arm64/v8 python:3.13-slim-bookworm
+tonistiigi/binfmt:latest
