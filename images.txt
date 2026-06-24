@@ -134,4 +134,5 @@
 #--platform linux/arm64/v8 python:3.13-slim-bookworm
 #tonistiigi/binfmt:latest
 #--platform linux/arm64/v8 nginx:stable
-t8y2/dbx:latest
+#t8y2/dbx:latest
+linshen/prompt-optimizer
